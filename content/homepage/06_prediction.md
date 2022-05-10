@@ -12,7 +12,7 @@ We do actually also see that the distance to nearest public recycling bin is imp
 
 
 <h6 style="text-align:center;">Feature importances</h6>
-<!--![image description](images/feature_importance.png)-->
+![image description](images/feature_importance.png)
 <!--![image description]({{< baseurl >}}images/feature_importance.png)-->
 
 On the plot below we can see the Pearson correlation between our target variable and the 8 most relevant features. 
@@ -27,7 +27,7 @@ rates will be low. The correlation of the variables is a good indicator to find 
 recycling rates.
 
 <h6 style="text-align:center;">Correlations</h6>
-
+![image description](images/correlation.png)
 <!--![image description](images/correlation.png)-->
 
 ---
