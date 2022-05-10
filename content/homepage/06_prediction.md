@@ -4,8 +4,8 @@ weight: 6
 header_menu: true
 ---
 
----
+![image description]({{< baseurl >}}/images/feature_importance.png)
 
-Prediction of recycling variables. 
+![image description]({{< baseurl >}}/images/correlation.png)
 
 ---
