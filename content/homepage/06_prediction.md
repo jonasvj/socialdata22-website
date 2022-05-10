@@ -12,7 +12,7 @@ We do actually also see that the distance to nearest public recycling bin is imp
 
 
 <h6 style="text-align:center;">Feature importances</h6>
-![image description]({{< baseurl >}}images/feature_importance.png)
+<img src = "https://jonasvj.github.io/socialdata22-website/images/feature_importance.png">
 
 On the plot below we can see the Pearson correlation between our target variable and the 8 most relevant features. 
 We can observe the positive correlation in the employed variable and the negative one in less than 10k.
@@ -28,4 +28,6 @@ recycling rates.
 <h6 style="text-align:center;">Correlations</h6>
 ![image description]({{< baseurl >}}images/correlation.png)
 
+![Test Image](/image.png)
+<img src = "/image.png">
 ---
