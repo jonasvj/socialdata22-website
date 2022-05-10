@@ -18,7 +18,7 @@ Our second source of recycling data is a register of the geographical locations 
 
 #### Social data
 
-To get insight about the socio-economics of each of the 59 community districts in New York City, we make use of a data set provided by the Department of City Planning in NYC that contains detailed demographic, socio-economic and housing characteristics for the different districts. The values in the data set are provided as 5-year averages over 2015 to 2019. The dataset is quite extensive and contains roughly 600 characteristics in total. We only make use of a small subset of these, namely the median age, median household income, percentage with Bachelor's degree and median number of household rooms in each district. The data set is available here <a href="https://www1.nyc.gov/site/planning/planning-level/nyc-population/american-community-survey.page.page">here</a>.
+To get insights about the socio-economics of each of the 59 community districts in New York City, we make use of a data set provided by the Department of City Planning in NYC. This data set contains detailed demographic, socio-economic and housing characteristics for the different districts. The values in the data set are provided as 5-year averages over 2015 to 2019. The dataset is quite extensive and contains roughly 600 characteristics in total. We only make use of a subset of these characteristics, for example; the median age, median household income, percentage with Bachelor's degree and median number of household rooms in each district. The data set is available <a href="https://www1.nyc.gov/site/planning/planning-level/nyc-population/american-community-survey.page.page">here</a>.
 
 ---
 
@@ -26,6 +26,6 @@ To get insight about the socio-economics of each of the 59 community districts i
 
 To create map visualizations, we make use of a data set that contains shape information of the different community districts. This data set is available <a href="https://data.cityofnewyork.us/City-Government/DSNY-Districts/i6mn-amj2">here</a> and is provided by the Department of Sanitation in NYC. 
 
-We also make use of the PLUTO data set provided by the Department of City Planning, which contains coordinates for all tax lots in NYC, amongst other things. We use this data to compute the distance to the nearest public recycling bin for all tax lots (i.e. addresses) in NYC. The data set is available here <a href="https://www1.nyc.gov/site/planning/data-maps/open-data.page">here</a>. 
+We also make use of the PLUTO data set provided by the Department of City Planning, which contains coordinates for all tax lots in NYC, amongst other things. We use this data to compute the distance to the nearest public recycling bin for all tax lots (i.e. addresses) in NYC. The data set is available <a href="https://www1.nyc.gov/site/planning/data-maps/open-data.page">here</a>. 
 
 ---
