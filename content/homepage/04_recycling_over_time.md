@@ -15,6 +15,6 @@ Next, we turn our focus to how the recycling behaviour of New Yorkers have chang
 	seamless="seamless"
 	frameborder="0">
 </iframe>
-<a href="http://people.compute.dtu.dk/s162615/">Here is link for the map if it does not load.</a>
+<a href="http://people.compute.dtu.dk/s162615/">Here is a link to the map if it does not load.</a>
 
 ---
