@@ -14,6 +14,7 @@ From the map, we see that there definitely is some socio-economic differences be
 
 ---
 
-Insert Spyros' plot here?
+{{< include-html "00_bokeh_bar.html" >}}
+
 
 ----

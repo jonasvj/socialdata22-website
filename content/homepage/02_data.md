@@ -24,6 +24,8 @@ To get insight about the socio-economics of each of the 59 community districts i
 
 #### Geo data
 
-To c visualizations of the different districts on 
+To create map visualizations, we make use of a data set that contains shape information of the different community districts. This data set is available <a href="https://data.cityofnewyork.us/City-Government/DSNY-Districts/i6mn-amj2">here</a> and is provided by the Department of Sanitation in NYC. 
+
+We also make use of the PLUTO data set provided by the Department of City Planning, which contains coordinates for all tax lots in NYC, amongst other things. We use this data to compute the distance to the nearest public recycling bin for all tax lots (i.e. addresses) in NYC. The data set is available here <a href="https://www1.nyc.gov/site/planning/data-maps/open-data.page">here</a>. 
 
 ---
