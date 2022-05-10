@@ -7,7 +7,7 @@ Next, we turn our focus to how the recycling behaviour of New Yorkers have chang
 
 ---
 
-<iframe src="http://people.compute.dtu.dk/s162615/recycling_over_time.html"
+<iframe src="https://people.compute.dtu.dk/s162615/recycling_over_time.html"
 	sandbox="allow-same-origin allow-scripts"
 	width="700"
 	height="450"
@@ -16,6 +16,6 @@ Next, we turn our focus to how the recycling behaviour of New Yorkers have chang
 	frameborder="0">
 </iframe>
 
-<a href="http://people.compute.dtu.dk/s162615/recycling_over_time.html">Here is a link to the map if it does not load.</a>
+<a href="https://people.compute.dtu.dk/s162615/recycling_over_time.html">Here is a link to the map if it does not load.</a>
 
 ---
