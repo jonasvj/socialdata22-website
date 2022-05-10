@@ -7,7 +7,7 @@ Next, we turn our focus to how the recycling behaviour of New Yorkers have chang
 
 ---
 
-<iframe src="https://jonasvj.github.io/socialdata22-website/maps/recycling_over_time_large_file.html.html"
+<iframe src="https://jonasvj.github.io/socialdata22-website/maps/recycling_over_time_large_file.html"
 	sandbox="allow-same-origin allow-scripts"
 	width="700"
 	height="450"
