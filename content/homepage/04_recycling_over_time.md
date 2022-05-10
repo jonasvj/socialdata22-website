@@ -8,13 +8,13 @@ Next, we turn our focus to how the recycling behaviour of New Yorkers have chang
 ---
 
 <iframe src="http://people.compute.dtu.dk/s162615"
-	sandbox="allow-same-origin allow-scripts"
 	width="700"
 	height="450"
 	scrolling="no"
 	seamless="seamless"
 	frameborder="0">
 </iframe>
+
 <a href="http://people.compute.dtu.dk/s162615/">Here is a link to the map if it does not load.</a>
 
 ---
