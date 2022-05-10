@@ -26,8 +26,5 @@ rates will be low. The correlation of the variables is a good indicator to find 
 recycling rates.
 
 <h6 style="text-align:center;">Correlations</h6>
-![image description]({{< baseurl >}}images/correlation.png)
-
-![Test Image](/image.png)
-<img src = "/image.png">
+<img src = "https://jonasvj.github.io/socialdata22-website/images/correlation.png">
 ---
