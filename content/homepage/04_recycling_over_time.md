@@ -8,6 +8,7 @@ Next, we turn our focus to how the recycling behaviour of New Yorkers have chang
 ---
 
 <iframe src="http://people.compute.dtu.dk/s162615/recycling_over_time.html"
+	sandbox="allow-same-origin allow-scripts"
 	width="700"
 	height="450"
 	scrolling="no"
