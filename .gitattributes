@@ -1,1 +1,2 @@
-recycling_over_time_large_file.html filter=lfs diff=lfs merge=lfs -text
+static/maps/recycling_over_time_large_file.html filter=lfs diff=lfs merge=lfs -text
+docs/maps/recycling_over_time_large_file.html filter=lfs diff=lfs merge=lfs -text
