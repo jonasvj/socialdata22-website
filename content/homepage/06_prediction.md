@@ -6,6 +6,6 @@ header_menu: true
 
 ---
 
-Prediction of recycling variables.
+Prediction of recycling variables. 
 
 ---
